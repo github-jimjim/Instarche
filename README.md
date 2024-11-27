@@ -19,7 +19,7 @@ A Python tool for downloading posts from a public Instagram profile using Instal
 - Tkinter for the graphical user interface
 ```bash
 pip install instaloader
-``
+```
 
 ## Cleanup Scripts
 ### `clean_up.py`
