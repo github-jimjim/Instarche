@@ -1,6 +1,10 @@
 # Instarche
 # Instagram Posts Downloader
 
+**Author:** Jimmy Luong
+
+## Overview
+
 A Python tool for downloading posts from a public Instagram profile using Instaloader. The application provides a simple user interface to input the target profile and download posts.
 
 ## Features
